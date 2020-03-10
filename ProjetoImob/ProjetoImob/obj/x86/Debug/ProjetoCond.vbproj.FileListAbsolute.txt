@@ -1,0 +1,10 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProjetoImob\obj\x86\Debug\ProjetoCond.LoginForm1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProjetoImob\obj\x86\Debug\ProjetoCond.mdiPrincipal.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProjetoImob\obj\x86\Debug\ProjetoCond.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProjetoImob\obj\x86\Debug\ProjetoCond.vbproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProjetoImob\bin\Debug\ProjetoCond.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProjetoImob\bin\Debug\ProjetoCond.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProjetoImob\bin\Debug\ProjetoCond.xml
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProjetoImob\obj\x86\Debug\ProjetoCond.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProjetoImob\obj\x86\Debug\ProjetoCond.xml
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProjetoImob\obj\x86\Debug\ProjetoCond.pdb

@@ -1,0 +1,117 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProjetoImob\bin\Debug\ProjetoImob.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProjetoImob\bin\Debug\ProjetoImob.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProjetoImob\bin\Debug\ProjetoImob.xml
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProjetoImob\obj\x86\Debug\ProjetoImob.frmCliente.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProjetoImob\obj\x86\Debug\ProjetoImob.LoginForm1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProjetoImob\obj\x86\Debug\ProjetoImob.mdiPrincipal.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProjetoImob\obj\x86\Debug\ProjetoImob.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProjetoImob\obj\x86\Debug\ProjetoImob.vbproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProjetoImob\obj\x86\Debug\ProjetoImob.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProjetoImob\obj\x86\Debug\ProjetoImob.xml
+C:\Users\Aluno\AppData\Local\Temporary Projects\ProjetoImob\obj\x86\Debug\ProjetoImob.pdb
+C:\Users\Aluno\Desktop\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.exe
+C:\Users\Aluno\Desktop\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.xml
+C:\Users\Aluno\Desktop\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.pdb
+C:\Users\Aluno\Desktop\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.exe
+C:\Users\Aluno\Desktop\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.pdb
+C:\Users\Aluno\Desktop\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.xml
+C:\Users\Aluno\Desktop\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.frmCliente.resources
+C:\Users\Aluno\Desktop\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.LoginForm1.resources
+C:\Users\Aluno\Desktop\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.mdiPrincipal.resources
+C:\Users\Aluno\Desktop\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.Resources.resources
+C:\Users\Aluno\Desktop\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.vbproj.GenerateResource.Cache
+E:\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.exe
+E:\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.xml
+E:\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.pdb
+E:\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.exe
+E:\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.pdb
+E:\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.xml
+E:\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.vbprojResolveAssemblyReference.cache
+E:\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.frmEditar.resources
+E:\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.frmCliente.resources
+E:\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.LoginForm1.resources
+E:\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.mdiPrincipal.resources
+E:\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.Resources.resources
+E:\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.vbproj.GenerateResource.cache
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\bin\Debug\cond_db.mdf
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\bin\Debug\cond_db_log.ldf
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.exe
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.pdb
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.xml
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.vbprojResolveAssemblyReference.cache
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.frmEditar.resources
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.frmCliente.resources
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.LoginForm1.resources
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.mdiPrincipal.resources
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.Resources.resources
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.vbproj.GenerateResource.cache
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.vbproj.CoreCompileInputs.cache
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.exe
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.xml
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.pdb
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.frmMostrar.resources
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.exe.config
+E:\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.exe.config
+E:\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.frmMostrar.resources
+E:\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\bin\Debug\Database1.mdf
+E:\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\bin\Debug\Database1_log.ldf
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.exe.config
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.exe
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.xml
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.pdb
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\bin\Debug\Database1.mdf
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\bin\Debug\Database1_log.ldf
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.exe
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.pdb
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.xml
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.vbprojResolveAssemblyReference.cache
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.frmEditar.resources
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.frmCliente.resources
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.frmMostrar.resources
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.LoginForm1.resources
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.mdiPrincipal.resources
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.Resources.resources
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.vbproj.GenerateResource.Cache
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.exe.config
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.exe
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.xml
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.pdb
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\bin\Debug\Database1.mdf
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\bin\Debug\Database1_log.ldf
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.exe
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.pdb
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.xml
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.vbprojResolveAssemblyReference.cache
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.frmEditar.resources
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.frmCliente.resources
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.frmMostrar.resources
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.LoginForm1.resources
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.mdiPrincipal.resources
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.Resources.resources
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.vbproj.GenerateResource.Cache
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.exe.manifest
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.application
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.exe.manifest
+C:\Users\ETEC\Desktop\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.application
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\bin\Debug\Database1.mdf
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\bin\Debug\Database1_log.ldf
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.exe.config
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.exe.manifest
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.application
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.exe
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.pdb
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\bin\Debug\ProjetoImob.xml
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.vbprojResolveAssemblyReference.cache
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.frmEditar.resources
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.frmCliente.resources
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.frmMostrar.resources
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.LoginForm1.resources
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.mdiPrincipal.resources
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.Resources.resources
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.vbproj.GenerateResource.cache
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.vbproj.CoreCompileInputs.cache
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.exe.manifest
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.application
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.exe
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.xml
+C:\Users\guiro\OneDrive\Área de Trabalho\PROJETO CONDOMÍNIO ok\ProjetoImob\ProjetoImob\obj\x86\Debug\ProjetoImob.pdb
